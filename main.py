@@ -6,7 +6,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 
-df = pd.read_csv('F:\\vs code files\\Big Data Project\\pslData.csv')
+df = pd.read_csv(r'C:\Users\YourUsername\Documents\BigDataProject\pslData.csv')
 
 team_encoder = LabelEncoder()
 
